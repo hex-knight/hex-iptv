@@ -1,0 +1,621 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="compus1286.jpg" group-title="TV ABIERTA",IPTV America Latina**Compus1286**IPTV America Latina
+http://
+
+#EXTINF:-1 tvg-logo="CANAL DE LAS ESTRELLAS.jpg" group-title"TV ABIERTA",XEWDT
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="AZ NOTICIAS.jpg" group-title="TV ABIERTA",XHDF
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="AZTECA 7 HD.jpg" group-title="TV ABIERTA",XHIMT
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="CANAL 5.jpg" group-title="TV ABIERTA",XHGC
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="TRECE HD.jpg" group-title="TV ABIERTA",XHDF2HD
+http://200.76.77.237/LIVE/H01/CANAL23/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="TELEFORMULA.jpg" group-title="TV ABIERTA",TFORM
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="+MEXIQUENSE TV.jpg" group-title="TV ABIERTA",MEXIQ
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1 tvg-logo="CANAL ONE.jpg" group-title="TV ABIERTA",XEIPN
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="TELESUR.jpg" group-title="TV ABIERTA",TELESUR
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="FORO TV HD.jpg" group-title="TV ABIERTA",XHTVHD
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="PROYECTO 40 HD.jpg" group-title="TV ABIERTA",XHRBT
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="INGENIO TV.jpg" group-title="TV ABIERTA",INGENIO TV
+http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="A&E.jpg" group-title="ENTRETENIMIENTO
+",AEMEXHD
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="AXN HD.jpg" group-title="ENTRETENIMIENTO
+",AXNHD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="SONY.jpg" group-title="ENTRETENIMIENTO
+",SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="WARNER HD.jpg" group-title="ENTRETENIMIENTO
+",WARNER
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="BBC.jpg" group-title="ENTRETENIMIENTO
+",BBCE
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="E!.jpg" group-title="ENTRETENIMIENTO
+",EINT
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="SYFY.jpg" group-title="ENTRETENIMIENTO
+",SYFYLA
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="CASA.jpg" group-title="ENTRETENIMIENTO
+",CASACLUB
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="UNIVERSAL CHANNEL HD.jpg" group-title="ENTRETENIMIENTO
+",UNI
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="COMEDY CENTRAL.jpg" group-title="ENTRETENIMIENTO
+",COMCLAH
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="ELGOURMET.jpg" group-title="ENTRETENIMIENTO
+",GOURMETN
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="GLITZ.jpg" group-title="ENTRETENIMIENTO
+",GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="DISTRITO COMEDIA.jpg" group-title="ENTRETENIMIENTO
+",DISTCOM
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="TLENOVELAS.jpg" group-title="ENTRETENIMIENTO
+",TLNOVEL
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="INF.jpg" group-title="ENTRETENIMIENTO
+",INFINI
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="TBS.jpg" group-title="ENTRETENIMIENTO
+",TBSESLA
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FX HD.jpg" group-title="ENTRETENIMIENTO
+",FXLHD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FOX.jpg" group-title="ENTRETENIMIENTO
+",FOXS1
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="HISTORY.jpg" group-title="MUNDO Y CULTURA
+",HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="NAT GEO WILD.jpg" group-title="MUNDO Y CULTURA
+",NATWILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="NATIONAL GEOGRAPHIC CHANNEL.jpg" group-title="MUNDO Y CULTURA
+",NATGEOMEX
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="ANIMAL PLANET.jpg" group-title="MUNDO Y CULTURA
+",APL
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="TLC HD.jpg" group-title="MUNDO Y CULTURA
+",TLCHDLA
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="LIFETIME.jpg" group-title="MUNDO Y CULTURA
+",BIOLAT
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="DISCOVERY.jpg" group-title="MUNDO Y CULTURA
+",DISCM
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="DISCOVERY THEATER.jpg" group-title="MUNDO Y CULTURA
+",HDTHLA
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="DISCOVERY CIVILIZATION.jpg" group-title="MUNDO Y CULTURA
+",DCIVIL
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="DISCOVERY SCIENCE.jpg" group-title="MUNDO Y CULTURA
+",DSCIENL
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="WOBI.jpg" group-title="MUNDO Y CULTURA
+",WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="DISCOVERY KIDS.jpg" group-title="INFANTIL",DKNLM
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="DISNEY JR.jpg" group-title="INFANTIL",DISNJMX
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="DISNEY XD.jpg" group-title="INFANTIL",DISNXD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="DISNEY CHANNEL.jpg" group-title="INFANTIL",DISNEY
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="NICK JR.jpg" group-title="INFANTIL",NICKJLM
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="NICK HD.jpg" group-title="INFANTIL",NIKLAHD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="CARTOON NETWORK.jpg" group-title="INFANTIL",TOONS
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="TOONCAST.jpg" group-title="INFANTIL",TOONCST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="TIIN.jpg" group-title="INFANTIL",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="CBEEBIES.jpg" group-title="INFANTIL",CBEETV
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="BOOMERANG.jpg" group-title="INFANTIL",BOOMLM
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="HBO Family.jpg" group-title="CINE",HBO Family
+rtmp://50.7.28.194/app playpath=16091?MTQyMDQzNDMzNTs0NzBiMDRkZDg1MTkyZDI5MTc2ZmZiMzdmNjU5YjQ4Mw== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a4d324d545a6c4e7a51324f545a6c4e6a5932597a59784e7a4d3d/05029dbdd4bfd
+
+#EXTINF:-1 tvg-logo="CINECANAL.jpg" group-title="CINE",CINEMEX
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="AMC.jpg" group-title="CINE",MGMMEX
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="STUDIO UNIVERSAL.jpg" group-title="CINE",STULM
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="DE PELICULA.jpg" group-title="CINE",DEPELICULA
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FILM ZONE HD.jpg" group-title="CINE",TFZLHD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FOX1.jpg" group-title="CINE",MOVIECITY
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FOX CINEMA.jpg" group-title="CINE",FOXCI
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FOX FAMILY.jpg" group-title="CINE",FOXFA
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FOX CLASSICS.jpg" group-title="CINE",FOXCL
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="TNT.jpg" group-title="CINE",TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="TCM.jpg" group-title="CINE",TCML
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="GOLDEN HD.jpg" group-title="CINE",GOLDNHD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="GOLDEN EDGE.jpg" group-title="CINE",GOLDII
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="SPACE.jpg" group-title="CINE",SPACES
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FOX SPORTS.jpg" group-title="DEPORTES",FSLAHD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FOX SPORTS2.jpg" group-title="DEPORTES",FSALAPRM
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="ESPN.jpg" group-title="DEPORTES",ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="ESPN HD.jpg" group-title="DEPORTES",ESPNHDM
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="ESPN2.jpg" group-title="DEPORTES",ESPN2M
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="ESPN+.jpg" group-title="DEPORTES",ESPN+
+rtmp://31.204.128.74/live/master27
+
+#EXTINF:-1 tvg-logo="PAC12.jpg" group-title="DEPORTES",PAC12 SPORT
+http://xrxs.net/video/live-p12wash-1164.m3u8
+
+#EXTINF:-1 tvg-logo="EUROSPORT.jpg" group-title="DEPORTES",EUROSPORT
+http://83.139.104.107/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="EUROSPORT 1.jpg" group-title="DEPORTES",EUROSPORT
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1 tvg-logo="EUROSPORT 2.jpg" group-title="DEPORTES",EUROSPORT 2
+http://83.139.104.107/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="EXTREME SPORTS.jpg" group-title="DEPORTES",EXTREME SPORTS
+http://83.139.104.107/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="FIGHT CHANNEL.jpg" group-title="DEPORTES",FIGHT CHANNEL
+http://83.139.104.107/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="FightBox.jpg" group-title="DEPORTES",FIGHT BOX
+http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="BERITA SATU SPORT.jpg" group-title="DEPORTES",BERITA SATU SPORT
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="TILESPORT.jpg" group-title="DEPORTES",TILESPORT
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+
+#EXTINF:-1 tvg-logo="SPORTSKOOL.jpg" group-title="DEPORTES",SPORTSKOOL USA
+http://204.107.26.252:1935/live/686.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="BANDAMAX.jpg" group-title="MÚSICA",BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="MTV.jpg" group-title="MÚSICA",MTVL
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="MTV LIVE HD.jpg" group-title="MÚSICA",MTV LIVE HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="MTV Music.jpg" group-title="MÚSICA",MTV Music
+http://83.139.104.107/Content/hls/live/channel(mtv_music)/stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="MTV Hits.jpg" group-title="MÚSICA",MTV Hits
+http://cdn-07.sdn.si/mtvhits/mtvhits.isml/mtvhits-video%3D1500000-audio101%3D128000.m3u8
+
+#EXTINF:-1 tvg-logo="MTV Dance.jpg" group-title="MÚSICA",MTV Dance
+http://cdn-07.sdn.si/mtvdance/mtvdance.isml/mtvdance-video%3D1500000-audio101%3D128000.m3u8
+
+#EXTINF:-1 tvg-logo="MTV Rocks.jpg" group-title="MÚSICA",MTV Rocks
+http://cdn-07.sdn.si/mtvrocks/mtvrocks.isml/mtvrocks-video%3D1500000-audio101%3D128000.m3u8
+
+#EXTINF:-1 tvg-logo="TELEHITHD.jpg" group-title="MÚSICA",THITHD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="VH1 HD.jpg" group-title="MÚSICA",VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="VH1.jpg" group-title="MÚSICA",VH1
+http://cdn-07.sdn.si/vh1/vh1.isml/vh1-video%3D1500000-audio101%3D128000.m3u8
+
+#EXTINF:-1 tvg-logo="VH1 Classic.jpg" group-title="MÚSICA",VH1 Classic
+http://cdn-07.sdn.si/vh1classic/vh1classic.isml/vh1classic-video%3D1500000-audio101%3D128000.m3u8
+
+#EXTINF:-1 tvg-logo="MIMUSICA HD.jpg" group-title="MÚSICA",MIMUSICA HD
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+
+#EXTINF:-1 tvg-logo="GOTICA MUSIC.jpg" group-title="MÚSICA",GOTICA MUSIC
+rtmp://149.11.34.6:1935/live/gotica.stream
+
+#EXTINF:-1 tvg-logo="VEVO USA.jpg" group-title="MÚSICA",VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="VEVO2.jpg" group-title="MÚSICA",VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="VEVO3.jpg" group-title="MÚSICA",VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="KISS TV.jpg" group-title="MÚSICA",KISS TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1 tvg-logo="ANTENA 3.jpg" group-title="INTERNACIONALES",ANTEN
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 tvg-logo="TV GALACIA.jpg" group-title="INTERNACIONALES",GALICIA
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="TRENDY.jpg" group-title="INTERNACIONALES",TRENDY
+http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+
+#EXTINF:-1 tvg-logo="UNE.jpg" group-title="INTERNACIONALES",UNE
+http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
+
+#EXTINF:-1 tvg-logo="H13N.jpg" group-title="INTERNACIONALES",H13N
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+
+#EXTINF:-1 tvg-logo="CABLE NOTICIAS.jpg" group-title="INTERNACIONALES",CABLE NOTICIAS
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+
+#EXTINF:-1 tvg-logo="EL TIEMPO.jpg" group-title="INTERNACIONALES",EL TIEMPO
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+
+#EXTINF:-1 tvg-logo="TELE VID.jpg" group-title="INTERNACIONALES",TELE VID
+http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
+
+#EXTINF:-1 tvg-logo="VMAS+TV.jpg" group-title="INTERNACIONALES",VMAS+TV
+http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
+
+#EXTINF:-1 tvg-logo="TVMAS HD.jpg" group-title="INTERNACIONALES",TVMAS HD
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1 tvg-logo="PONTE EXA TV ONLINE.jpg" group-title="INTERNACIONALES",PONTE EXA TV ONLINE
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="OCHOTV.jpg" group-title="INTERNACIONALES",CANAL8
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="TELE MEDELLIN.jpg" group-title=,TELE MEDELLIN
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+
+#EXTINF:-1 tvg-logo="LASEXTA.jpg" group-title="INTERNACIONALES",LA SEXTA
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 tvg-logo="CANAL EXTREMADURA.jpg" group-title="INTERNACIONALES",CANAL EXTREMADURA
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="NOVA.jpg" group-title=,NOVA
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
+
+#EXTINF:-1 tvg-logo="ANDALUCIA TV.jpg" group-title="INTERNACIONALES",ANDALUCIA TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
+#EXTINF:-1 tvg-logo="HISPAN TV.jpg" group-title="INTERNACIONALES",HISPANTV
+http://ptv-hls.streaming.overon.es/channel04/livehigh.m3u8
+
+#EXTINF:-1 tvg-logo="TV CATALUNYA.jpg" group-title="INTERNACIONALES",TV CATALUNYA
+http://94.23.54.177:1935/8TV/8aldia-directe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="RTVE 24H TV.jpg" group-title="INTERNACIONALES",RTVE 24H
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-logo="ARAGON TV.jpg" group-title="INTERNACIONALES",ARAGON TV
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+
+#EXTINF:-1 tvg-logo="NEWS PEOPLES TV.jpg" group-title="INTERNACIONALES",NEWS PEOPLES TV
+http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="YES!.jpg" group-title="INTERNACIONALES",YES!
+http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8
+
+#EXTINF:-1 tvg-logo="CANAL 12 CORDOBA.jpg" group-title="INTERNACIONALES",CANAL 12 CORDOBA
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="CANAL 13 HD.jpg" group-title="INTERNACIONALES",CANAL 13 HD
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:-1 tvg-logo="CANAL RURAL.jpg" group-title="INTERNACIONALES",CANAL RURAL
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+
+#EXTINF:-1 tvg-logo="QMUSICA TV.jpg" group-title="INTERNACIONALES",QMUSICA TV
+mms://200.42.92.6:1755/qmusica
+
+#EXTINF:-1 tvg-logo="CANAL 5 TUCUMAN.jpg" group-title="INTERNACIONALES",CANAL 5 TUCUMAN
+rtsp://mobil.tucuman.tv/edge/scwsttv506460643395c
+
+#EXTINF:-1 tvg-logo="PAKA PAKA.jpg" group-title="INTERNACIONALES",PAKA PAKA TV
+http://198.49.76.226:1935/inovasd/inovasd/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="MEGAZINE TV.jpg" group-title="INTERNACIONALES",MEGAZINE TV
+rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+
+#EXTINF:-1 tvg-logo="C5N.jpg" group-title="INTERNACIONALES",C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+
+#EXTINF:-1 tvg-logo="CANAL 9 TV HD.jpg" group-title="INTERNACIONALES",CANAL 9 TV HD
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="LA RED.jpg" group-title="INTERNACIONALES",LA RED HD
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/
+
+#EXTINF:-1 tvg-logo="TVN.jpg" group-title="INTERNACIONALES",TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+
+#EXTINF:-1 tvg-logo="MEGA HD.jpg" group-title="INTERNACIONALES",MEGA HD
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="CAMARA DE DIPUTADOS TV.jpg" group-title="INTERNACIONALES",CAMARA DE DIPUTADOS TV
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+
+#EXTINF:-1 tvg-logo="CNN CHILE.jpg" group-title="INTERNACIONALES",CNN CHILE
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
+
+#EXTINF:-1 tvg-logo="TV SENADO.jpg" group-title="INTERNACIONALES",TV SENADO
+http://senadortmp.janus.cl/senadotv/senado600/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="VTV2.jpg" group-title="INTERNACIONALES",VTV2
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="TELEANTIOQUIA.jpg" group-title="INTERNACIONALES",TELEANTOQUIA HD
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+
+#EXTINF:-1 tvg-logo="CANAL ANTIESTRES.jpg" group-title="INTERNACIONALES",CANAL ATIESTRES
+http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
+
+#EXTINF:-1 tvg-logo="CANAL CLICK.jpg" group-title="INTERNACIONALES",CANAL CLICK
+http://uneapple-i.akamaihd.net/hls/live/206577/grupoune_st19@206577/st19_index.m3u8
+
+#EXTINF:-1 tvg-logo="AMERICA TV HD.jpg" group-title="INTERNACIONALES",AMERICA TV HD
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="PANAMERICANA.jpg" group-title="INTERNACIONALES",PANAMERICANA
+http://fl01.iviplanet.com:1935/GlobalTVPanamericana/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="TELE ANTILLAS.jpg" group-title="INTERNACIONALES",TELE ANTILLAS
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="TELE SISTEMA.jpg" group-title="INTERNACIONALES",TELE SISTEMA
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+
+#EXTINF:-1 tvg-logo="VIVA NICARAGUA CANAL 13.jpg" group-title="INTERNACIONALES",VIVA NICARAGUA CANAL 13 
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="CANAL 4.jpg" group-title="INTERNACIONALES",CANAL 4
+http://iphone-streaming.ustream.tv/uhls/16349493/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="5 EL LIDER.jpg" group-title="INTERNACIONALES",5 EL LIDER
+http://162.212.176.83:8080/tvchd.stream.m3u8
+
+#EXTINF:-1 tvg-logo="GUATE VISION.jpg" group-title="INTERNACIONALES",GUATE VISION
+http://bravo967.sysvirtuales.com/live/stream1.sdp/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="ALFA TV.jpg" group-title="INTERNACIONALES",ALFA TV
+rtmp://streamer1.streamhost.org/salive/GMIalfam
+
+#EXTINF:-1 tvg-logo="ABC News HD.jpg" group-title="USA",ABC News HD
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="CNBC.jpg" group-title="USA",CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="CLUBBING TV.jpg" group-title="USA",CLUBBING TV USA
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="FRESHTV.jpg" group-title="USA",FRESHTV
+rtmp://www.planeta-online.tv:1936/live/channel_4
+
+#EXTINF:-1 tvg-logo="FREE SPEECH TV.jpg" group-title="USA",FREE SPEECH TV USA
+http://204.107.26.252:1935/live/697.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="HAVOC TV.jpg" group-title="USA",HAVOC TV USA
+http://204.107.26.252:1935/live/335.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="HSN TV.jpg" group-title="USA",HSN TV USA
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
+
+#EXTINF:-1 tvg-logo="MISSIONTV.jpg" group-title="USA",MISSION TV USA
+rtmp://streamer1.streamhost.org/salive/GMImissiontvh
+
+#EXTINF:-1 tvg-logo="ENCORE.jpg" group-title="USA",ENCORE TV USA
+http://149.11.34.6:1935/live/pentagon.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="PRESSTV.jpg" group-title="USA",PRESS TV USA
+http://204.107.26.252:1935/live/905.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="PSYCHICLODAY.jpg" group-title="USA",PSYCHICLODAY
+http://204.107.26.252:1935/live/1711.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="QVC HD.PNG" group-title="USA",QVC HD
+http://204.107.26.252:1935/live/413.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="VERNISSAGE TV.jpg" group-title="USA",VERNISSAGE TV
+http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="YOUTOO SOCIAL TV.jpg" group-title="USA",YOUTOO SOCIAL TV
+http://204.107.26.252:1935/live/773.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="MOVIES HD.jpg" group-title="LIVE BROADCASTS",MOVIES HD 
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_mega_movieshd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="UNIVERSAL CINE.jpg" group-title="LIVE BROADCASTS", UNIVERSAL CINE
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_universal_movies swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="LE CREME.jpg" group-title="LIVE BROADCASTS",LE CREME
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_lcreme_staff swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE MORENA.jpg" group-title="LIVE BROADCASTS",CINE MORENA
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_avanti_morocha swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE MEGA EXTREMO.jpg" group-title="LIVE BROADCASTS",CINE MEGA EXTREMO 
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_mega_extremo swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE LATINOMOVIES.jpg" group-title="LIVE BROADCASTS",CINE LATINOMOVIES
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_latinomovies swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE 300.jpg" group-title="LIVE BROADCASTS",CINE 300
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_300 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE AZUA TV.jpg" group-title="LIVE BROADCASTS",CINE AZUA TV
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_azuatv swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE BROADMOVIES.jpg" group-title="LIVE BROADCASTS",CINE BROADMOVIES
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_broadmovies swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE STAR.jpg" group-title="LIVE BROADCASTS",CINE STAR
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_cine_star swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE SERIES.jpg" group-title="LIVE BROADCASTS",CINE SERIES
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_cinema_serieshd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE CINEMALATINO.jpg" group-title="LIVE BROADCASTS",CINEMA LATINO
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_cinemalitinohd01 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE CINESCAPE.jpg" group-title="LIVE BROADCASTS",CINE SCAPE
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_cinescape swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE DISNEY PIXAR.jpg" group-title="LIVE BROADCASTS",DISNEY PIXAR
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_disney_pixar swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE MEGA KIDS.jpg" group-title="LIVE BROADCASTS",CINE MEGA KIDS
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_mega_kids swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE MEGA MOVIESHD.jpg" group-title="LIVE BROADCASTS",CINE MEGA MOVIES HD
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_megamovieshd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE MORENITA.jpg" group-title="LIVE BROADCASTS",CINE MORENITA
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_morenita30 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE MOVIECINE.jpg" group-title="LIVE BROADCASTS",MOVIE CINE
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_moviecine swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE LATINO EXPRESS.jpg" group-title="LIVE BROADCASTS",CINE LATINO EXPRESS
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_movielatinexpress swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="PELICULAS INFANTILES.jpg" group-title="LIVE BROADCASTS",PELICULAS INFANTILES
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_peliculasinfantil swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE PLANETA MOVIES.jpg" group-title="LIVE BROADCASTS",PLANETA MOVIES
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_planetamovies swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE UNIVERSAL MOVIES.jpg" group-title=,CINE UNIVERSAL MOVIES
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_universal_movies swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="UNIVERSAL MOVIES.jpg" group-title="LIVE BROADCASTS",UNIVERSAL MOVIES
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="CINE VITATO.jpg" group-title="LIVE BROADCASTS",CINE VITATO
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_vitatotv swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="CINE X FILES.jpg" group-title="LIVE BROADCASTS",CINE X FILES
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_xfiles swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="COMEDIAS TV STUDIO.jpg" group-title="LIVE BROADCASTS",COMEDIA TV STUDIO
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_tv_estudio swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="MEGA CHAVO.jpg" group-title="LIVE BROADCASTS",MEGA CHAVO
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_mega_chavo swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="ENTRETENIMIENTO.jpg" group-title="LIVE BROADCASTS",ENTRETENIMIENTO
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_entretenimientohd1 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="COMEDIAS RAJADUPLACARD.jpg" group-title="LIVE BROADCASTS",COMEDIAS RAJADUPLA
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_rajaduradplacard swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="COMEDIAS SEBASTIAN 24.jpg" group-title="LIVE BROADCASTS",COMDIAS SEBASTIAN 24
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_sebastiann24 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1 tvg-logo="COMEDIAS SIMPSON MANIA.jpg" group-title="LIVE BROADCASTS",COMEDIA SIPSON MANIA
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_simpson_mania swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
